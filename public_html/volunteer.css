@@ -1,12 +1,22 @@
+
+.header{
+margin:auto;
+width:100%;	
+font-size:25px;
+text-align:center;
+padding: 15px;
+background-color: #ffc4cd;
+}
 .activities{
 text-align:center;
 
 }
-.leftbox{
-width:15%;
-float:left;
-}
-.rightbox{
-width:15%
-float:left;
+.footer{
+width: 100%;
+position:fixed;
+bottom:0px;
+text-align: center;
+padding:15px;
+font-size: 25px;
+background-color:#ffc4cd;
 }
